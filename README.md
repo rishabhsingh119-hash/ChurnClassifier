@@ -40,7 +40,3 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 - Imbalanced-learn (SMOTEENN)
 - Matplotlib, Seaborn
 
-
-
-## 👤 Author
-[Your name/contact]
